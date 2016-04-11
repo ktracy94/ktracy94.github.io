@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "You're up and running!"
+title: CPSC 450 Final Blog
 published: true
 ---
 
-#CPSC 350 Final#
 This is for my final blog. 
 
 
