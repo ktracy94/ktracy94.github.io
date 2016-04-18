@@ -1,6 +1,6 @@
 ---
-published: false
+published: true
 ---
 ## A New Post
 
-Testing a new post	
+Testing a new post
