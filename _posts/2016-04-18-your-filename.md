@@ -1,6 +1,6 @@
 ---
 published: true
 ---
-## A New Post
+## HTML Forms
 
-Testing a new post
+One of the first things anyone learns when beginning HTML development is how to use forms to get information from users.
