@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-![]({{site.baseurl}}/https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/0b5/169/0354446.jpg)
+![](/https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/0b5/169/0354446.jpg)
 
 I am a Senior at the University of Mary Washington. I currently intern at MTEQ (Manufacturing Techniques Inc) and will be starting full time employment at TMA (Technology Management Associates) starting this summer as a software developer.
 
