@@ -14,4 +14,4 @@ The first step to ensure that Python Flask is installed on your server. As we di
     
 I created a "registration" function after this which then allows the python code to access what has been entered into the fields, as shown below in a screenshot of the form.
 
-![Capture1.PNG](/_posts/Capture1.PNG "Capture1.PNG")
+![](/https://github.com/ktracy94/ktracy94.github.io/blob/master/_posts/Capture1.PNG)
