@@ -45,4 +45,4 @@ Making names for your inputs that are easy to remember help later down the line 
 
 The main issue from here is of course accessing the input the user gave from your backend code. By getting access to these values you can successfully input them into your SQL database, or whatever type database you are using. 
 
-I stuck with the standard way of accessing these inputs bying using Python, and one of its libraries call Python Flask.
+I stuck with the standard way of accessing these inputs bying using Python, and one of its libraries call Python Flask. In the next blog I will go over the basics of flask in Cloud9.
