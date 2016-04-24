@@ -3,8 +3,6 @@ published: true
 "layout :": post
 layout: post
 ---
-## Python Flask
-
 The first step to ensure that Python Flask is installed on your server. As we discussed last post, I am currently using Flask to retrieve data from the user who is attempting to register for something. The first thing that I did in my code was to ensure that I have correct inclusions. The top of my Server.py code is:
 
 	import os
@@ -24,3 +22,6 @@ Once the user hits the "Submit" button, it will send the rest of the data to the
         ,'movie': request.form['movie']
         ,'hosting': request.form['hosting']
         ,'date': request.form['date']})
+  
+  
+The request funtions here are returning the strings that have been entered by the user, and I'm adding all of this information into another dictionary called "people.dict" in order to keep track of it. At this point I will have successfully obtained the informationto be placed into the database, but I must first ensure that I have a properly formatted database that can accept all of this information. In the next post I will go over how to properly set up a database to accept the information I have received in this form.
