@@ -3,7 +3,7 @@ published: true
 "layout :": post
 layout: post
 ---
-The first step to ensure that Python Flask is installed on your server. As we discussed last post, I am currently using Flask to retrieve data from the user who is attempting to register for something. The first thing that I did in my code was to ensure that I have correct inclusions. The top of my Server.py code is:
+The first step is to ensure that Python Flask is installed on your server. As we discussed last post, I am currently using Flask to retrieve data from the user who is attempting to register for something. The first thing that I did in my code was to ensure that I have correct inclusions. The top of my Server.py code is:
 
 	import os
 	import psycopg2
